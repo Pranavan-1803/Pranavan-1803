@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pranavan-1803
 - Currently working with Angular, Node Js and MySql
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on React
+- 👀 I’m interested in MEAN stack
+- 🌱 I’m currently learning web3
+- 💞️ I’m looking to collaborate on Angular
 - 📫 Reach me through apranavan@gmail.com
 
 <!---
